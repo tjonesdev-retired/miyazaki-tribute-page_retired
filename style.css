@@ -1,0 +1,35 @@
+a:link {
+  color: white;
+  text-decoration: none;
+}
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+a:active {
+  color: white;
+  text-decoration: none;
+}
+button {
+  margin: .2em;
+}
+#footer-link:link {
+  color: #0066cc;
+  text-decoration: none;
+}
+#footer-link:visited {
+  color: #0066cc;
+  text-decoration: none;
+}
+#footer-link:hover {
+  color: #003399;
+  text-decoration: underline;
+}
+#footer-link:active {
+  color: #003399;
+  text-decoration: underline;
+}
